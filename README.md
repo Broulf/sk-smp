@@ -196,5 +196,6 @@
 ## 📌 Notes
 - Use `/rtp` to quickly explore new areas.
 - Protect valuables using **Hey That's Mine**.
+- Use **Hey That's Mine** in conjunction with **Universal Shops** to create full fledged shops!
 - Use the live map to plan builds and locate players.
 - Factions provide land protection, teamwork, and PvP dynamics.
