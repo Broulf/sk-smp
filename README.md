@@ -116,9 +116,9 @@
 
 | Command | Description |
 |--------|------------|
-| `/factions settings chat [global|faction|focus]` | Changes which chat you're currently sending and receiving from. |
-| `/factions settings radar` | Toggles displaying the faction of the chunk you're currently standing inside on the hud |
-| `/factions settings sound [all|warnings|factions|none]` | Changes what type of sounds the mod will play |
+| /factions settings chat [global|faction|focus] | Changes which chat you're currently sending and receiving from. |
+| /factions settings radar | Toggles displaying the faction of the chunk you're currently standing inside on the hud |
+| /factions settings sound [all|warnings|factions|none] | Changes what type of sounds the mod will play |
 
 ---
 
