@@ -166,7 +166,7 @@
 
 | Command | Description |
 |--------|------------|
-| `/f modify open <true|false>` | Sets your faction to public (true) or invite only (false). |
+| /f modify open <true|false> | Sets your faction to public (true) or invite only (false). |
 | `/f modify description <faction description>` | Sets your faction description. |
 | `/f modify color <color>` | Sets your faction color. |
 | `/f modify motd <motd>` | Sets your faction motd. |
@@ -188,8 +188,8 @@
 
 | Command | Description |
 |--------|------------|
-| `/f permissions [add | remove] <permission name> faction <faction name>` | Adds or removes a permission from a faction |
-| `/f permissions [add | remove] <permission name> guest` | Adds or removes a permission from all guests in your faction |
+| /f permissions [add | remove] <permission name> faction <faction name> | Adds or removes a permission from a faction |
+| /f permissions [add | remove] <permission name> guest | Adds or removes a permission from all guests in your faction |
 
 ---
 
