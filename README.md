@@ -116,9 +116,9 @@
 
 | Command | Description |
 |--------|------------|
-| /factions settings chat [global|faction|focus] | Changes which chat you're currently sending and receiving from. |
-| /factions settings radar | Toggles displaying the faction of the chunk you're currently standing inside on the hud |
-| /factions settings sound [all|warnings|factions|none] | Changes what type of sounds the mod will play |
+| `/factions settings chat [global/faction/focus]` | Changes which chat you're currently sending and receiving from. |
+| `/factions settings radar` | Toggles displaying the faction of the chunk you're currently standing inside on the hud |
+| `/factions settings sound [all/warnings/factions/none]` | Changes what type of sounds the mod will play |
 
 ---
 
@@ -128,7 +128,7 @@
 |--------|------------|
 | `/factions claim list` | Lists all your faction claims |
 | `/factions claim add [<size>]` | Claims the chunk you're standing in, or a radius around it. |
-| `/factions claim remove [<size>|all]` | Removes the claim on the chunk you're standing in, or a radius around it. |
+| `/factions claim remove [<size>/all]` | Removes the claim on the chunk you're standing in, or a radius around it. |
 
 ---
 
@@ -166,7 +166,7 @@
 
 | Command | Description |
 |--------|------------|
-| /f modify open <true|false> | Sets your faction to public (true) or invite only (false). |
+| `/f modify open <true/false>` | Sets your faction to public (true) or invite only (false). |
 | `/f modify description <faction description>` | Sets your faction description. |
 | `/f modify color <color>` | Sets your faction color. |
 | `/f modify motd <motd>` | Sets your faction motd. |
@@ -188,8 +188,8 @@
 
 | Command | Description |
 |--------|------------|
-| /f permissions [add | remove] <permission name> faction <faction name> | Adds or removes a permission from a faction |
-| /f permissions [add | remove] <permission name> guest | Adds or removes a permission from all guests in your faction |
+| `/f permissions [add/remove] <permission name> faction <faction name>` | Adds or removes a permission from a faction |
+| `/f permissions [add/remove] <permission name> guest` | Adds or removes a permission from all guests in your faction |
 
 ---
 
