@@ -190,12 +190,3 @@
 |--------|------------|
 | `/f permissions [add/remove] <permission name> faction <faction name>` | Adds or removes a permission from a faction |
 | `/f permissions [add/remove] <permission name> guest` | Adds or removes a permission from all guests in your faction |
-
----
-
-## 📌 Notes
-- Use `/rtp` to quickly explore new areas.
-- Protect valuables using **Hey That's Mine**.
-- Use **Hey That's Mine** in conjunction with **Universal Shops** to create full fledged shops!
-- Use the live map to plan builds and locate players.
-- Factions provide land protection, teamwork, and PvP dynamics.
